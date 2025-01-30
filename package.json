@@ -17,5 +17,9 @@
     "url": "https://github.com/abdullahranginwala/ecom-backend/issues"
   },
   "homepage": "https://github.com/abdullahranginwala/ecom-backend#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  }
 }
